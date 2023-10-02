@@ -26,27 +26,27 @@ global.botname = "Queen Anya"
 global.author = "Enter Author Name Here"  
 global.packname = "𝙌𝙐𝙀𝙀𝙉✯𝘼𝙉𝙔𝘼✯𝘽𝙊𝙏"  
 global.myweb = "Enter Your Any Website Profile Link Here"
-global.footer = "©\t" + "Enter Your Watermark Here"
+global.footer = "©\t" + "❤️"
 global.prefa = ['-'] // single prefix
 global.themeemoji = "🎐"
 global.autoBio = "$mode : $time ⌚ || $date 🗓️ || $botname" // Leave it as it is if you didn't understood!
 global.socialText = `*⪧⪢ Please join this group for by bot's announcement.*`
-global.socialLink = `*⪧⪢ https://chat.whatsapp.com/HshHS6kHF9NHnA9lfMwwSM 💝*`
+global.socialLink = `*⪧⪢ https://chat.whatsapp.com/Lb9s7LnxqqF2zJVY266GT2 *`
 
 
 global.ownername = "Enter Owner Name Here"    
-global.ownernumber = ["918811074852"]
+global.ownernumber = ["94701627402"]
 global.ytname = "YT: Enter Your Channel Name Here"
-global.continent = "Asia" // your continent name 
-global.region = "Enter Your Country Name Here"
-global.state = "Enter Your State Name Here" // your state name
-global.timezone = "Asia/Kolkata" // search on google if you don't know the timezone of your country //
+global.continent = "TEDDY" // your continent name 
+global.region = "Srilanka"
+global.state = "sl-teddy-boy" // your state name
+global.timezone = "Srilanka" // search on google if you don't know the timezone of your country //
 global.instagramId = "Enter Your Insta ID Here"
-global.email = "Enter Your Email ID Here"
+global.email = "slteddyofficial6@gmail.com"
 
 
 // Greeting messages
-global.greet1 = "Good morning ☀️" // after 3 AM
+global.greet1 = "Good morning ☀️" // after 7 AM
 global.greet2 = "Good afternoon 🏜️" // after 12 PM
 global.greet3 = "Good evening 🌆" // after 4 PM
 global.greet4 = "Good night 😴" // after 8:30 PM
