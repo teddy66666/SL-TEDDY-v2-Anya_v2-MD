@@ -34,15 +34,15 @@ global.socialText = `*⪧⪢ Please join this group for by bot's announcement.*`
 global.socialLink = `*⪧⪢ https://chat.whatsapp.com/Lb9s7LnxqqF2zJVY266GT2 *`
 
 
-global.ownername = "Enter Owner Name Here"    
+global.ownername = "Teddy-boy"    
 global.ownernumber = ["94701627402"]
-global.ytname = "YT: Enter Your Channel Name Here"
+global.ytname = "YT: https://chat.whatsapp.com/Lb9s7LnxqqF2zJVY266GT2"
 global.continent = "TEDDY" // your continent name 
 global.region = "Srilanka"
 global.state = "sl-teddy-boy" // your state name
-global.timezone = "Srilanka" // search on google if you don't know the timezone of your country //
+global.timezone = "Asia/colombo" // search on google if you don't know the timezone of your country //
 global.instagramId = "Enter Your Insta ID Here"
-global.email = "slteddyofficial6@gmail.com"
+global.email = "slteddyboy6@gmail.com"
 
 
 // Greeting messages
